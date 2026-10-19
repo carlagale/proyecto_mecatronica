@@ -1,6 +1,6 @@
 # Proyecto Mecatrónica: Robot Sube Escaleras
 ### Carla Gracía Alejandre (Portavoz)
-### Elías MUñoz Taín
+### Elías Muñoz Taín
 ### Miguel Ángel Piña Martínez
 ### María Yagüe Llamas
 
